@@ -8,10 +8,10 @@ https://github.com/nikitabulak/debt-calculator
 Spring Boot, Hibernate, PostgreSQL, Docker.<br />
 https://github.com/nikitabulak/explore-with-me
 
-:eyes: <u>**filmorate**</u> - сервис для просмотра оценок и отзывов о фильмах и их добавления.<br />
-Spring Boot, JDBC, Maven, Lombok.<br />
-https://github.com/nikitabulak/filmorate
-
 :package: <u>**share-it**</u> - сервис для временного обмена вещами между людьми.<br />
 Spring Boot, Hibernate, PostgreSQL.<br />
 https://github.com/nikitabulak/share-it
+
+:eyes: <u>**filmorate**</u> - сервис для просмотра оценок и отзывов о фильмах и их добавления.<br />
+Spring Boot, JDBC, Maven, Lombok.<br />
+https://github.com/nikitabulak/filmorate
